@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-🎯 Layihə Haqqında
+##🎯 Layihə Haqqında
 
 Bu layihədə şagirdlərin performansını (G3 — yekun qiymət) təhlil etmək üçün EDA (Exploratory Data Analysis), Feature Engineering, Outlier Removal, Encoding, Scaling və Linear Regression tətbiq olunmuşdur. Məqsəd — şagirdin əvvəlki göstəricilərinə əsaslanaraq yekun qiymətini proqnozlaşdırmaqdır.
 
