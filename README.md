@@ -1,16 +1,16 @@
 # Student Performance Analysis
 
-## 🎯 Layihə Haqqında
+### 🎯 Layihə Haqqında
 
 Bu layihədə şagirdlərin performansını (G3 — yekun qiymət) təhlil etmək üçün EDA (Exploratory Data Analysis), Feature Engineering, Outlier Removal, Encoding, Scaling və Linear Regression tətbiq olunmuşdur. Məqsəd — şagirdin əvvəlki göstəricilərinə əsaslanaraq yekun qiymətini proqnozlaşdırmaqdır.
 
-📦 İstifadə Olunan Dataset
+### 📦 İstifadə Olunan Dataset
 
 student-mat.csv — UCI Machine Learning Repository-dən götürülmüş real şagird məlumatları.
 
 Atributlar: gender, yaş, təhsil səviyyəsi, ailə dəstəyi, internetə çıxış, dərs buraxmaları və s.
 
-🔧 İcra olunan addımlar
+### 🔧 İcra olunan addımlar
 
 ✅ 1. Məlumat Təmizliyi 
 Null və dublikat dəyərlərin yoxlanması
