@@ -65,9 +65,7 @@ Medu	✅ Zəif, amma pozitiv
 Model G3 qiymətini yüksək dəqiqliklə təxmin edə bilir. Əvvəlki qiymətlər (G1, G2) və təhsil motivasiyası (ali təhsil istəyi, valideyn təhsili) ən vacib amillərdir.
 
 ### 🧪 İstifadə Olunan Kitabxanalar
-python
-Copy
-Edit
+
 pandas, numpy, seaborn, matplotlib, scikit-learn
 
 ### 🚀 Necə İstifadə Etməli:
