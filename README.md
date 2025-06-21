@@ -13,6 +13,7 @@ Atributlar: gender, yaş, təhsil səviyyəsi, ailə dəstəyi, internetə çıx
 ### 🔧 İcra olunan addımlar
 
 **✅ 1. Məlumat Təmizliyi** 
+
 Null və dublikat dəyərlərin yoxlanması
 
 Uyğunsuz/outlier dəyərlərin müəyyən olunması və silinməsi (absences, failures, s.)
@@ -55,6 +56,7 @@ higher	✅ Müsbət niyyət
 Medu	✅ Zəif, amma pozitiv
 
 ### 📌 Nəticə
+
 Model G3 qiymətini yüksək dəqiqliklə təxmin edə bilir. Əvvəlki qiymətlər (G1, G2) və təhsil motivasiyası (ali təhsil istəyi, valideyn təhsili) ən vacib amillərdir.
 
 ### 🧪 İstifadə Olunan Kitabxanalar
@@ -64,6 +66,7 @@ Edit
 pandas, numpy, seaborn, matplotlib, scikit-learn
 
 ### 🚀 Necə İstifadə Etməli:
+
 student-mat.csv faylını content/ qovluğuna əlavə et.
 
 student_performance.py və ya .ipynb faylını çalıştır.
