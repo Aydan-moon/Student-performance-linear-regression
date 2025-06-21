@@ -49,10 +49,15 @@ R² ≈ 0.85
 ### 📊 Ən Təsirli Xüsusiyyətlər
 
 Xüsusiyyət	Təsir
+
 G2	✅ Güclü pozitiv təsir
+
 G1	✅ Müsbət təsir
+
 failures	❌ Güclü mənfi təsir
+
 higher	✅ Müsbət niyyət
+
 Medu	✅ Zəif, amma pozitiv
 
 ### 📌 Nəticə
